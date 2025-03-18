@@ -1,0 +1,64 @@
+*div{
+    background-color: black;
+    color:white;
+}
+.title{
+    background-color: black;
+    color:white;
+    padding-left: 800px;
+}
+.home{
+    padding-left: 100px;
+}
+
+.prt{
+    background-color:black;
+    color:white;
+    padding-left:600px;
+    border:solid black 4px;
+    width:200px;
+    padding-left:5px;
+    display:inline-block;
+}
+img{
+    height:200px;
+    width:200px;
+    margin:1px;
+
+}
+.prt-order{
+    padding-left:50px;
+    margin:20px;
+    background-color:white;
+    color:black;
+
+}
+div{
+    padding:10px;
+    padding-left:200px;
+}
+.contact{
+    background-color: black;
+    color:white;
+    padding-left: 700px;
+    display:block;
+    
+    
+    
+    
+}
+.contact-form__send{
+    background-color: yellow;
+    color:black;
+    display: inline-block;
+    padding-right:200px;
+
+    
+    
+    
+    
+}
+
+
+
+
